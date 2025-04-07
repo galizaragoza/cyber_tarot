@@ -1,6 +1,6 @@
 // app/[locale]/layout.tsx
 import type { Metadata } from "next";
-import { Geist, Geist_Mono, Orbitron } from "next/font/google";
+import { Geist, Geist_Mono, Orbitron, Roboto} from "next/font/google";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages } from "next-intl/server";
 import { notFound } from "next/navigation";
@@ -21,6 +21,8 @@ const geistMono = Geist_Mono({
 });
 
 const orbitron = Orbitron({ subsets: ["latin"] });
+const roboto = Roboto({ subsets: ["latin"] });
+
 
 // Metadata del sitio
 export const metadata: Metadata = {
@@ -42,7 +44,7 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} suppressHydrationWarning>
       <body
-        className={`${geistSans.variable} ${geistMono.variable} ${orbitron.className} font-sans antialiased bg-white text-black`}
+        className={`${geistSans.variable} ${geistMono.variable} ${orbitron.className} ${roboto.className} font-sans antialiased bg-white text-black`}
       >
 
         <NextIntlClientProvider locale={locale} messages={messages}>

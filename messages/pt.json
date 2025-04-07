@@ -111,5 +111,10 @@
       "title": "Rei de Espadas",
       "description": "Duas coisas importam acima de tudo para um Rei de Espadas: a lógica e a convicção. Ele representa uma pessoa com uma bússola moral precisa, conhecida por sua postura cuidadosa. No entanto, que os inimigos se cuidem – o Rei de Espadas é um adversário implacável que não descansará até que você seja punido e despedaçado pelos cães do destino."
     }
+  },
+  "reading_prompt": {
+    "before": "Agora você deve enviar a seguinte mensagem para o ChatGPT:",
+    "after": "Na sua próxima resposta, você deve agir como um tarólogo. Acabei de tirar as cartas e saíram estas: {cards}. Interprete-as e leia meu passado, presente e futuro.",
+    "play": "Jogar"
   }
 }

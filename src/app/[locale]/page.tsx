@@ -86,22 +86,22 @@ export default function Home() {
 
   return (
     <div
-      className="w-full min-h-screen px-2 sm:px-4 py-8 font-orbitron bg-cover bg-center"
+      className="w-full min-h-screen px-2 sm:px-4 py-8 bg-cover bg-center"
       style={{ backgroundImage: "url('/wallpaper.png')" }}
     >
       <main className="p-4 rounded-xl">
-        <h1 className="text-6xl text-[#fbfb53] font-bold my-8 text-center">
+        <h1 className="text-6xl font-orbitron text-[#fbfb53] font-bold my-8 text-center">
           {m("title")}
         </h1>
-        <h2 className="text-3xl text-[#fbfb53] font-semibold mt-8 text-center">
+        <h2 className="text-3xl font-orbitron text-[#fbfb53] font-semibold mt-8 text-center">
           {m("subtitle")}
         </h2>
         <div className="flex flex-row">
-          <h3 className="text-xl text-gray-200 font-semibold my-2 text-center">
+          <h3 className="text-xl font-orbitron text-gray-200 font-semibold my-2 text-center">
             {m("about_01")}
           </h3>
-          <Link className="text-xl text-blue-500 cursor-pointer hover:underline font-semibold my-2 text-center ms-1" href={"https://linktr.ee/galizaragozadev"}>galizaragozadev</Link>
-          <h3 className="text-xl text-gray-200 font-semibold my-2 text-center">
+          <Link className="text-xl font-orbitron text-blue-500 cursor-pointer hover:underline font-semibold my-2 text-center ms-1" href={"https://linktr.ee/galizaragozadev"}>galizaragozadev</Link>
+          <h3 className="text-xl font-orbitron text-gray-200 font-semibold my-2 text-center">
             {m("about_02")}
           </h3>
         </div>
@@ -128,7 +128,7 @@ export default function Home() {
                     className="object-contain w-full h-full pointer-events-none"
                   />
                 </div>
-                <div className="z-10 bg-black bg-opacity-70 text-white text-md p-2 text-center rounded-b-2xl">
+                <div className="z-10 font-orbitron bg-black bg-opacity-70 text-white text-md p-2 text-center rounded-b-2xl">
                   {card.title}
                 </div>
 
@@ -184,8 +184,8 @@ export default function Home() {
 
               {/* Descripción */}
               <div className="flex-1">
-                <h2 className="text-3xl font-bold mb-4">{cards[selectedCardIndex].title}</h2>
-                <p className="text-base leading-relaxed text-white/90">
+                <h2 className="text-3xl font-orbitron font-bold mb-4">{cards[selectedCardIndex].title}</h2>
+                <p className="text-xl font-roboto leading-relaxed text-white/90">
                   {cards[selectedCardIndex].description}
                 </p>
               </div>

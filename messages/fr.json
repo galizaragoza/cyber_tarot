@@ -111,5 +111,10 @@
       "title": "Roi d’Épées",
       "description": "Deux choses importent avant tout pour un Roi d’Épées : la logique et la conviction. Il représente une personne dotée d’une boussole morale précise, connue pour sa bienveillance. Cependant, que les ennemis se méfient – il est un adversaire impitoyable qui ne se reposera pas tant que vous ne serez pas puni et déchiré par les chiens du destin."
     }
+  },
+  "reading_prompt": {
+    "before": "Tu dois maintenant envoyer le message suivant à ChatGPT :",
+    "after": "Dans ta prochaine réponse, tu dois agir comme un tarologue. Je viens de tirer les cartes et voici celles qui sont sorties : {cards}. Interprète-les et lis mon passé, présent et futur.",
+    "play": "Jouer"
   }
 }

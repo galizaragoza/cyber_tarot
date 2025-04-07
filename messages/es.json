@@ -5,7 +5,7 @@
     "about_01": "Web hecha por ",
     "about_02": ", puedes clicar en mi nombre para apoyarme, saber más sobre mí o conocer mis otros proyectos.",
     "cta_button": "Clica aquí para que adivine tu pasado, presente y futuro"
-  },
+  },  
   "cards": {
     "card_1": {
       "title": "El Necio",
@@ -111,5 +111,10 @@
       "title": "Rey de Espadas",
       "description": "Dos cosas importan sobre todo para un Rey de Espadas: la lógica y la convicción. Representa a una persona con una brújula moral precisa, conocida por su actitud compasiva. Sin embargo, que se preparen los enemigos: es un adversario despiadado que no descansará hasta que seas castigado y dejado a merced de los perros del destino."
     }
+  },
+  "reading_prompt": {
+    "before": "Ahora, has de mandarle el siguiente mensaje a ChatGPT:",
+    "after": "En tu siguiente respuesta debes actuar como tarotista. Acabo de echar las cartas y salieron: {cards}. Interprétalas y lee mi pasado, presente y futuro.",
+    "play":"Jugar"
   }
 }

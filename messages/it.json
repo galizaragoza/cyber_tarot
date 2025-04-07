@@ -111,5 +111,10 @@
       "title": "Re di Spade",
       "description": "Per il Re di Spade contano soprattutto la logica e la convinzione. Egli rappresenta una persona dotata di una bussola morale precisa, conosciuta per la sua gentilezza. Tuttavia, gli avversari devono stare attenti – il Re di Spade è un nemico spietato che non si fermerà finché non verrai punito e lasciato a marcire, come preda dei cani del destino."
     }
+  },
+  "reading_prompt": {
+    "before": "Ora devi inviare il seguente messaggio a ChatGPT:",
+    "after": "Nella tua prossima risposta devi agire come un cartomante. Ho appena steso le carte e sono uscite: {cards}. Interpretale e leggi il mio passato, presente e futuro.",
+    "play": "Gioca"
   }
 }

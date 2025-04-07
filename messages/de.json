@@ -111,5 +111,10 @@
       "title": "Der König der Schwerter",
       "description": "Für den König der Schwerter zählen vor allem Logik und Überzeugung. Er repräsentiert eine Person mit einem präzisen moralischen Kompass, die für ihre fürsorgliche Art bekannt ist. Doch Vorsicht, Gegner – der König der Schwerter ist ein rücksichtsloser Widersacher, der nicht ruhen wird, bis du bestraft und in Stücke gerissen bist."
     }
+  },
+  "reading_prompt": {
+    "before": "Jetzt musst du die folgende Nachricht an ChatGPT senden:",
+    "after": "In deiner nächsten Antwort musst du als Wahrsager handeln. Ich habe gerade die Karten gelegt, und diese kamen heraus: {cards}. Interpretiere sie und lies meine Vergangenheit, Gegenwart und Zukunft.",
+    "play": "Spielen"
   }
 }

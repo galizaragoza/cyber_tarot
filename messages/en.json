@@ -111,5 +111,10 @@
       "title": "King of Swords",
       "description": "Two things matter above all else for a King of Swords: logic and conviction. They represent a person with a precise moral compass, who is known for their caring demeanor. However, enemies beware - the King of Swords is a ruthless opponent, who will not rest until you are punished and left to be torn apart by hounds of fate."
     }
+  },
+  "reading_prompt": {
+    "before": "Now, you must send the following message to ChatGPT:",
+    "after": "In your next response you must act as a tarot reader. I just laid the cards and these came out: {cards}. Interpret them and read my past, present, and future.",
+    "play": "Play"
   }
 }

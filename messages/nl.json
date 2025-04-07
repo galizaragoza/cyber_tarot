@@ -111,5 +111,10 @@
       "title": "De Koning van Zwaarden",
       "description": "Voor de Koning van Zwaarden tellen bovenal twee dingen: logica en overtuiging. Hij vertegenwoordigt een persoon met een nauwkeurig moreel kompas, bekend om zijn zorgzame aard. Maar vijanden, wees op uw hoede – de Koning van Zwaarden is een meedogenloze tegenstander die niet zal rusten totdat je gestraft bent en in stukken gerukt wordt."
     }
+  },
+  "reading_prompt": {
+    "before": "Je moet nu het volgende bericht naar ChatGPT sturen:",
+    "after": "In je volgende antwoord moet je als tarotlezer optreden. Ik heb net de kaarten gelegd en dit zijn ze geworden: {cards}. Interpreteer ze en lees mijn verleden, heden en toekomst.",
+    "play": "Spelen"
   }
 }
