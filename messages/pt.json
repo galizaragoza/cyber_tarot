@@ -1,0 +1,115 @@
+{
+  "main_text": {
+    "title": "Tarô Cyberpunk",
+    "subtitle": "Inspirado no jogo Cyberpunk 2077 da CD Projekt Red, todas as imagens e direitos autorais pertencem à CD Projekt e este é um projeto feito por um fã.",
+    "about_01": "Site criado por ",
+    "about_02": ", clique no meu nome para me apoiar, saber mais sobre mim ou conhecer meus outros projetos.",
+    "cta_button": "Clique aqui para que eu revele seu passado, presente e futuro"
+  },
+  "cards": {
+    "card_1": {
+      "title": "O Louco",
+      "description": "O Louco representa todos – inclusive você e eu. Cada passo que ele dá em sua jornada parece adentrar um mundo novo e corajoso. Em última instância, a jornada o transformará. Mas, como mostra a carta, ele é um jovem confiável cujo incansável otimismo o impulsiona em direção ao seu objetivo."
+    },
+    "card_2": {
+      "title": "O Mago",
+      "description": "O Mago é a carta da autoconfiança e da adaptação às situações por meio do intelecto e da pura vontade. Ele é um estrategista que sempre tem um último truque guardado, que, apesar de tudo, consegue se manter à tona e continuar no controle de seu próprio destino."
+    },
+    "card_3": {
+      "title": "A Sacerdotisa",
+      "description": "A Sacerdotisa é uma carta de mistério. Ela revela como todos os nossos segredos dependem de um fio delicado e a luta entre o senso comum e a intuição. Simboliza as águas frias e calmas, bem como os mistérios ocultos em suas profundezas."
+    },
+    "card_4": {
+      "title": "A Imperatriz",
+      "description": "A Imperatriz é a carta da feminilidade e da maternidade. Ela é autoritária, sabe o que quer e exibe refinamento e sensualidade. Simboliza a criatividade e o crescimento, e nos ensina a não ignorar nossos impulsos inconscientes, mas a confiar em nossa intuição."
+    },
+    "card_5": {
+      "title": "O Imperador",
+      "description": "O Imperador representa o controle patriarcal e se mostra satisfeito com a autoridade e o poder que possui para moldar o futuro. Ele estabelece as regras e as impõe para o bem comum. Porém, o prestígio tem seu lado obscuro – ele é dominante e impiedoso, disposto a ultrapassar montanhas de corpos para alcançar seu objetivo."
+    },
+    "card_6": {
+      "title": "O Hierofante",
+      "description": "O Hierofante simboliza o respeito pela tradição. Representa aquele que tenta manter a ordem estabelecida, mesmo que seu próprio caráter seja moldado por ela. Ele deposita sua fé nas instituições – pois a alternativa é o caos puro. Somente confiando na ordem é que ele pode encontrar força."
+    },
+    "card_7": {
+      "title": "Os Amantes",
+      "description": "Os Amantes são a carta das dicotomias. Eles apontam para as contradições que se chocam dentro de cada um de nós e para o desafio de encontrar um equilíbrio entre os extremos. Também representam os dilemas, como o Louco que se encontra na encruzilhada, incapaz de fazer sua escolha."
+    },
+    "card_8": {
+      "title": "O Carro",
+      "description": "O Carro avança sempre, mesmo sendo puxado por seus cavalos em direções opostas. O condutor que o guia consegue constantemente dominar os lados luminosos e sombrios da alma com a ajuda da Razão. Viajar no Carro é experimentar altos e baixos."
+    },
+    "card_9": {
+      "title": "A Força",
+      "description": "A Força é a carta da resiliência. Está associada à determinação, à coragem e à luta interna. É preciso dedicação para superar os obstáculos e atingir o objetivo. Representa tanto a potência física quanto a fortaleza espiritual – o poder que deve ser liberado para alcançar o impossível."
+    },
+    "card_10": {
+      "title": "O Eremita",
+      "description": "O Eremita é uma carta de isolamento autoimposto. Representa uma fuga do frenesi da cidade, um afastamento da modernidade incessante em favor dos métodos tradicionais. Para o Eremita, a solidão é o caminho para o sublime – uma via percorrida não com passos largos, mas com pequenos e concentrados passos."
+    },
+    "card_11": {
+      "title": "A Roda da Fortuna",
+      "description": "A Roda da Fortuna significa que a mudança está chegando. O destino de cada um pode melhorar ou piorar, mas traz também a promessa de novas possibilidades. Ela nos lembra que ninguém permanece no topo para sempre e que nem toda situação é desesperadora."
+    },
+    "card_12": {
+      "title": "A Justiça",
+      "description": "A Justiça é a carta da resolução de conflitos. Ela proclama a necessidade de ordem, de ver além das mentiras e dos enganos, e de um retorno ao estado natural das coisas. Implica uma sentença justa, bem como o devido processo legal."
+    },
+    "card_13": {
+      "title": "O Enforcado",
+      "description": "O Enforcado é a carta do sacrifício. Indica que é necessário pagar um preço para atingir a iluminação. Sua rendição abre o caminho para o renascimento em uma nova vida, embora essa trajetória esteja repleta de dores suspensas no tempo e, em última análise, conduza à morte."
+    },
+    "card_14": {
+      "title": "A Morte",
+      "description": "A Morte é a carta da transformação. Ela significa uma transição iminente e difícil – o fim de uma fase da vida e o começo de outra. Inevitavelmente, algo se perde durante essa transformação, mas algo novo surgirá para tomar o seu lugar."
+    },
+    "card_15": {
+      "title": "A Temperança",
+      "description": "A Temperança é a carta do equilíbrio. Pode simbolizar o autocontrole ou a transição gradual para um estado de equilíbrio mais maduro. Está associada à capacidade de dominar a si mesmo e ao desejo de alcançar a paz interior."
+    },
+    "card_16": {
+      "title": "O Diabo",
+      "description": "O Diabo representa a dependência, o desejo e a paixão. Ele traz fama e fortuna, mas ao custo de se perder em um mundo de distrações materiais. Atrai almas desavisadas para armadilhas, mas sempre oferece uma escolha. Pode-se tentar a sorte e aceitar sua oferta, mas é fundamental saber quando desistir."
+    },
+    "card_17": {
+      "title": "A Torre",
+      "description": "A Torre é um presságio de mudanças radicais, caos e destruição. O raio que atinge a Torre simboliza o retorno à ordem antiga, enterrada sob as ruínas, e o surgimento de uma nova ordem. É um símbolo de tragédia, apocalipse e autodestruição."
+    },
+    "card_18": {
+      "title": "A Estrela",
+      "description": "A Estrela é a carta da esperança. Na noite mais escura, há uma luz que ilumina o caminho de casa. Ela é inspiração, motivação e nos dá forças para seguir em frente."
+    },
+    "card_19": {
+      "title": "A Lua",
+      "description": "A Lua nos lembra que a realidade nem sempre é o que parece à primeira vista. Em um mundo de aparências e ilusões, o melhor caminho é frequentemente traçado pela própria intuição. É também a carta dos sonhos, dos desejos e, naturalmente, do sono – o ritual noturno da Morte."
+    },
+    "card_20": {
+      "title": "O Sol",
+      "description": "O Sol simboliza o sucesso. É a carta da liberdade, do renascimento e de um futuro brilhante que se apresenta. Também representa a verdade, pois sua luz sempre afasta o véu de sombras que oculta os segredos do mundo, além de simbolizar a grandeza e o esplendor."
+    },
+    "card_21": {
+      "title": "O Julgamento",
+      "description": "O Julgamento é a carta do renascimento. O anjo que toca a trombeta anuncia a ressurreição e a libertação. Esta carta prefigura uma mudança importante que trará cura ou realização, sendo também um símbolo do valor pessoal."
+    },
+    "card_22": {
+      "title": "O Mundo",
+      "description": "O Mundo se encontra no final da longa e sinuosa jornada do Louco. Mais sábio e mais cansado do que quando começou, o Louco enfrenta um momento decisivo. Alguns aceitam o caminho que a vida os levou, enquanto outros se lançam em um novo desafio. Uma coisa é certa neste Mundo: não se pode ter tudo."
+    },
+    "card_23": {
+      "title": "Rei de Copas",
+      "description": "Um Rei de Copas é uma pessoa criativa e movida pelas emoções. São indivíduos fortes, que compreendem a importância dos sentimentos. A intuição os auxilia a navegar pela vida. Quando o destino sorri, a compaixão guia suas ações; quando as coisas não vão bem, seria imprudente confiar neles."
+    },
+    "card_24": {
+      "title": "Rei de Ouros",
+      "description": "O Rei de Ouros é imponente. Representa a iniciativa, o pragmatismo e também o apego. De uma pessoa assim, pode-se esperar frieza ou uma obsessão pelos bens materiais; é provável que, mais cedo ou mais tarde, ela vire seu mundo de cabeça para baixo."
+    },
+    "card_25": {
+      "title": "Rei de Paus",
+      "description": "O Rei de Paus é o mestre do planejamento e das ideias não convencionais. É um indivíduo que une as pessoas e irradia inspiração para aqueles que considera amigos. Contudo, seus inimigos descobrirão rapidamente que ele é uma força impulsiva e devastadora, capaz de quebrar juramentos e ultrapassar qualquer limite para atingir seus objetivos."
+    },
+    "card_26": {
+      "title": "Rei de Espadas",
+      "description": "Duas coisas importam acima de tudo para um Rei de Espadas: a lógica e a convicção. Ele representa uma pessoa com uma bússola moral precisa, conhecida por sua postura cuidadosa. No entanto, que os inimigos se cuidem – o Rei de Espadas é um adversário implacável que não descansará até que você seja punido e despedaçado pelos cães do destino."
+    }
+  }
+}

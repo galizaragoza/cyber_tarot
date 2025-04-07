@@ -4,12 +4,15 @@ import { useEffect, useState } from "react";
 import { useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Button } from "@/components/ui/button";
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
+import { useTranslations } from "next-intl";
 
 export default function Home() {
   const [selectedCardIndex, setSelectedCardIndex] = useState<number | null>(null);
   const bigCardRef = useRef<HTMLDivElement | null>(null);
   const shineRef = useRef<HTMLDivElement | null>(null);
+  const t = useTranslations('cards');
+  const m = useTranslations('main_text');
 
   useEffect(() => {
     const cards = document.querySelectorAll(".tilt-card");
@@ -34,18 +37,18 @@ export default function Home() {
         animationFrame = requestAnimationFrame(update);
       };
 
-      const handleMouseMove = (e: MouseEvent) => {
+      const handleMouseMove = (e: Event) => {
+        const event = e as MouseEvent;
         const rect = card.getBoundingClientRect();
-        const x = e.clientX - rect.left;
-        const y = e.clientY - rect.top;
+        const x = event.clientX - rect.left;
+        const y = event.clientY - rect.top;
         const centerX = rect.width / 2;
         const centerY = rect.height / 2;
 
         targetX = (x - centerX) / 10;
         targetY = -(y - centerY) / 10;
 
-        const angle =
-          Math.atan2(y - centerY, x - centerX) * (180 / Math.PI) - 90;
+        const angle = Math.atan2(y - centerY, x - centerX) * (180 / Math.PI) - 90;
         shine.style.background = `linear-gradient(${angle}deg, rgba(255,255,255,0.3), transparent)`;
         shine.style.opacity = "1";
       };
@@ -56,56 +59,30 @@ export default function Home() {
         shine.style.opacity = "0";
       };
 
+      // ✅ Listeners añadidos sin error de tipos
       card.addEventListener("mousemove", handleMouseMove);
       card.addEventListener("mouseleave", handleMouseLeave);
       animationFrame = requestAnimationFrame(update);
 
+      // Cleanup
       return () => {
         card.removeEventListener("mousemove", handleMouseMove);
         card.removeEventListener("mouseleave", handleMouseLeave);
         cancelAnimationFrame(animationFrame);
       };
+
     });
   }, []);
 
+  const cards = Array.from({ length: 26 }, (_, i) => {
+    const key = `card_${i + 1}`;
+    return {
+      src: `/cards/card${String(i + 1).padStart(2, '0')}.webp`,
+      title: t(`${key}.title`),
+      description: t(`${key}.description`)
+    };
+  });
 
-  const titles = [
-    "The Fool",
-    "The Magician",
-    "The High Priestess",
-    "The Empress",
-    "The Emperor",
-    "The Hierophant",
-    "The Lovers",
-    "The Chariot",
-    "Strength",
-    "The Hermit",
-    "Wheel of Fortune",
-    "Justice",
-    "The Hanged Man",
-    "Death",
-    "Temperance",
-    "The Devil",
-    "The Tower",
-    "The Star",
-    "The Moon",
-    "The Sun",
-    "Judgement",
-    "The World",
-    "King of Cups",
-    "King Of Pentacles",
-    "King of Wands",
-    "King of Swords"
-  ];
-
-  const descriptions = titles.map(
-    (title) => `Esta es la descripción de la carta "${title}". Aquí puedes incluir un texto más detallado o simbólico.`
-  );
-
-  const cards = titles.map((title, i) => ({
-    src: `/cards/card${String(i + 1).padStart(2, "0")}.webp`,
-    title,
-  }));
 
   return (
     <div
@@ -113,21 +90,32 @@ export default function Home() {
       style={{ backgroundImage: "url('/wallpaper.png')" }}
     >
       <main className="p-4 rounded-xl">
-        <h1 className="text-6xl text-[#fbfb53] font-bold my-8 text-center">Cyberpunk Tarot</h1>
-        <h2 className="text-3xl text-[#fbfb53] font-semibold mt-8 text-center">Inspirado en el juego de CD Projekt Red Cyberpunk 2077, todas las imágenes y sus derechos de autor pertenecen a CD Projekt
-          y esto es un proyecto elaborado por un fan.
+        <h1 className="text-6xl text-[#fbfb53] font-bold my-8 text-center">
+          {m("title")}
+        </h1>
+        <h2 className="text-3xl text-[#fbfb53] font-semibold mt-8 text-center">
+          {m("subtitle")}
         </h2>
-        <h3 className="text-xl text-gray-200 font-semibold my-2 text-center">Web hecha por <Link className="text-[#66aed4] cursor-pointer hover:underline" href={'/adivination'}>galizaragozadev</Link>, puedes clicar en mi nombre para apoyarme, saber más sobre mí
-          o conocer mis otros proyectos.
-        </h3>
+        <div className="flex flex-row">
+          <h3 className="text-xl text-gray-200 font-semibold my-2 text-center">
+            {m("about_01")}
+          </h3>
+          <Link className="text-xl text-blue-500 cursor-pointer hover:underline font-semibold my-2 text-center ms-1" href={"https://linktr.ee/galizaragozadev"}>galizaragozadev</Link>
+          <h3 className="text-xl text-gray-200 font-semibold my-2 text-center">
+            {m("about_02")}
+          </h3>
+        </div>
         <div className="flex justify-center my-4">
-          <Button className="text-2xl p-8 bg-[#01000f] text-[#66aed4] hover:bg-[#66aed4] hover:text-[#01000f]">Clica aquí para que adivine tu pasado, presente y futuro</Button>
+          <Link href={'/adivination'} target="_blank">
+            <Button className="text-2xl p-8 bg-[#01000f] text-[#66aed4] hover:bg-[#66aed4] hover:text-[#01000f]">{m("cta_button")}
+            </Button>
+          </Link>
         </div>
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 sm:gap-6">
           {cards.map((card, index) => (
             <div
               key={index}
-              className="tilt-card group relative w-72 h-96 flex flex-col rounded-2xl transition-transform duration-100 shadow-xl bg-black"
+              className="tilt-card group relative w-72 h-96 flex flex-col rounded-2xl transition-transform duration-100 shadow-xl bg-black hover:bg-black/10"
               style={{ perspective: "1200px" }}
               onClick={() => setSelectedCardIndex(index)}
             >
@@ -196,11 +184,9 @@ export default function Home() {
 
               {/* Descripción */}
               <div className="flex-1">
-                <h2 className="text-3xl font-bold mb-4">
-                  {titles[selectedCardIndex]}
-                </h2>
+                <h2 className="text-3xl font-bold mb-4">{cards[selectedCardIndex].title}</h2>
                 <p className="text-base leading-relaxed text-white/90">
-                  {descriptions[selectedCardIndex]}
+                  {cards[selectedCardIndex].description}
                 </p>
               </div>
             </motion.div>

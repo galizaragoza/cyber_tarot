@@ -1,0 +1,115 @@
+{
+  "main_text": {
+    "title": "Tarô Cyberpunk",
+    "subtitle": "Inspirado no jogo Cyberpunk 2077 da CD Projekt Red, todas as imagens e direitos autorais pertencem à CD Projekt e este é um projeto feito por um fã.",
+    "about_01": "Site criado por ",
+    "about_02": ", clique no meu nome para me apoiar, saber mais sobre mim ou conhecer meus outros projetos.",
+    "cta_button": "Clique aqui para que eu revele seu passado, presente e futuro"
+  },
+  "cards": {
+    "card_1": {
+      "title": "Il Matto",
+      "description": "Il Matto rappresenta tutti, te compreso e me. Ogni passo che compie nel suo viaggio sembra un tuffo in un mondo nuovo e audace. Alla fine, il viaggio lo trasformerà. Ma come mostra la carta, è un giovane affidabile il cui instancabile speranza lo guida verso il suo obiettivo."
+    },
+    "card_2": {
+      "title": "Il Mago",
+      "description": "Il Mago è la carta della fiducia in se stessi e dell'adattamento alle situazioni attraverso l'intelletto e la pura volontà. È un astuto manipolatore che ha sempre un ultimo trucco da tirare fuori, e nonostante tutto riesce a restare a galla e a mantenere il controllo del proprio destino."
+    },
+    "card_3": {
+      "title": "La Papessa",
+      "description": "La Papessa è una carta di mistero. Essa mostra come tutti i nostri segreti pendano da un filo delicato e la lotta tra buon senso e intuizione. La Papessa simboleggia le acque fredde e calme, così come i misteri nascosti nelle loro profondità."
+    },
+    "card_4": {
+      "title": "L'Imperatrice",
+      "description": "L'Imperatrice è la carta della femminilità e della maternità. È autoritaria, sa cosa vuole e manifesta raffinatezza e sensualità. Simboleggia la creatività e la crescita, e ci insegna a non ignorare i nostri impulsi inconsci, ma a fidarci della nostra intuizione."
+    },
+    "card_5": {
+      "title": "L'Imperatore",
+      "description": "L'Imperatore rappresenta il controllo patriarcale ed è soddisfatto dell'autorità e del potere che possiede per plasmare il futuro. Egli stabilisce le regole e le fa rispettare per il bene comune. Tuttavia, il prestigio ha il suo lato oscuro – è dominante e spietato, e scalerà una montagna di corpi per raggiungere il suo scopo."
+    },
+    "card_6": {
+      "title": "Il Papa",
+      "description": "Il Papa simboleggia il rispetto per la tradizione. Rappresenta colui che cerca di mantenere l'ordine stabilito, anche se il suo stesso carattere ne è plasmato. Egli ripone la sua fede nelle istituzioni – poiché l'alternativa è il caos puro. Solo riponendo la sua fede nell'ordine può trarre forza."
+    },
+    "card_7": {
+      "title": "Gli Amanti",
+      "description": "Gli Amanti sono la carta delle dicotomie. Indicano le contraddizioni che si scontrano dentro ciascuno di noi e la sfida di trovare un equilibrio tra gli estremi. Rappresentano anche i dilemmi, come il Matto che si trova al bivio, incapace di fare una scelta."
+    },
+    "card_8": {
+      "title": "Il Carro",
+      "description": "Il Carro avanza sempre, nonostante venga tirato in direzioni opposte dai suoi cavalli. Il condottiero che lo guida riesce costantemente a dominare le forze luminose e oscure dell'anima grazie alla Ragione. Viaggiare nel Carro significa sperimentare alti e bassi."
+    },
+    "card_9": {
+      "title": "La Forza",
+      "description": "La Forza è la carta della resilienza. È associata alla determinazione, al coraggio e alla lotta interiore. Occorre dedizione per superare gli ostacoli e raggiungere il proprio obiettivo. Essa riguarda sia la potenza fisica che la forza spirituale – il potere che deve essere liberato per compiere l'impossibile."
+    },
+    "card_10": {
+      "title": "L'Eremita",
+      "description": "L'Eremita è una carta di isolamento volontario. Rappresenta una fuga dal trambusto della città, un allontanamento dalla costante novità verso metodi antichi. Per l'eremita, la solitudine è la via verso il sublime – una via percorsa non con grandi passi, ma con piccoli passi concentrati."
+    },
+    "card_11": {
+      "title": "La Ruota della Fortuna",
+      "description": "La Ruota della Fortuna significa che il cambiamento è in arrivo. Il destino di ciascuno potrebbe migliorare o peggiorare, ma porta con sé la promessa di nuove possibilità. Essa ci ricorda che nessuno rimane sempre al vertice e che nessuna situazione è completamente disperata."
+    },
+    "card_12": {
+      "title": "La Giustizia",
+      "description": "La Giustizia è la carta della risoluzione dei conflitti. Essa proclama la necessità di ordine, di vedere oltre le bugie e gli inganni, e di un ritorno allo stato naturale delle cose. Implica una sentenza equa e il giusto procedimento."
+    },
+    "card_13": {
+      "title": "L'Appeso",
+      "description": "L'Appeso è la carta del sacrificio. Indica che per raggiungere l'illuminazione è necessario pagare un prezzo. Il suo abbandono apre la via a una rinascita in una nuova vita, anche se questo percorso è costellato di dolore sospeso nel tempo e infine conduce alla morte."
+    },
+    "card_14": {
+      "title": "La Morte",
+      "description": "La Morte è la carta della trasformazione. Essa segna una transizione imminente e difficile – la conclusione di una fase della vita e l'inizio di un'altra. Inevitabilmente, qualcosa si perde durante il cambiamento, ma qualcos'altro sorgerà al suo posto."
+    },
+    "card_15": {
+      "title": "La Temperanza",
+      "description": "La Temperanza è la carta dell'equilibrio. Può simboleggiare il controllo di sé o il passaggio graduale verso uno stato di equilibrio più maturo. È associata alla capacità di autogestione e al desiderio di raggiungere la pace interiore."
+    },
+    "card_16": {
+      "title": "Il Diavolo",
+      "description": "Il Diavolo rappresenta la dipendenza, il desiderio e la passione. Egli porta fama e fortuna, ma al prezzo di perdersi in un mondo di distrazioni materiali. Attira le anime ingenue in trappole, offrendo sempre una scelta. Si può tentare la fortuna accettando la sua offerta, ma bisogna sempre sapere quando fermarsi."
+    },
+    "card_17": {
+      "title": "La Torre",
+      "description": "La Torre è un presagio di cambiamenti radicali, caos e distruzione. Il fulmine che colpisce la Torre simboleggia il ritorno al vecchio ordine sepolto tra le rovine, e l'emergere di un nuovo ordine. È un simbolo di tragedia, apocalisse e autodistruzione."
+    },
+    "card_18": {
+      "title": "La Stella",
+      "description": "La Stella è la carta della speranza. Nella notte più buia, c'è una luce che illumina il cammino di casa. Essa incarna l'ispirazione, la motivazione e ci dà la forza di andare avanti."
+    },
+    "card_19": {
+      "title": "La Luna",
+      "description": "La Luna ci ricorda che la realtà non è sempre quella che sembra a prima vista. In un mondo di apparenze e illusioni, il percorso migliore è spesso tracciato dalla nostra intuizione. È anche la carta dei sogni, dei desideri e, naturalmente, del sonno – il rituale notturno della Morte."
+    },
+    "card_20": {
+      "title": "Il Sole",
+      "description": "Il Sole simboleggia il successo. È una carta di libertà, rinnovamento e di un futuro luminoso che ci attende. Rappresenta anche la verità, poiché la sua luce farà sempre luce sulle ombre che celano i segreti del mondo, incarnando grandezza e splendore."
+    },
+    "card_21": {
+      "title": "Il Giudizio",
+      "description": "Il Giudizio è la carta del rinnovamento. L'angelo che suona la tromba annuncia la resurrezione e la liberazione. Questa carta preannuncia un cambiamento importante che porterà guarigione o realizzazione, ed è anche un simbolo del valore personale."
+    },
+    "card_22": {
+      "title": "Il Mondo",
+      "description": "Il Mondo si colloca alla fine del lungo e tortuoso viaggio del Matto. Più saggio e stanco del mondo di quando è partito, il Matto affronta un momento di verità. Alcuni accettano dove il loro viaggio li ha portati, mentre altri intraprendono una nuova sfida. Una cosa è certa in questo Mondo: non puoi avere tutto."
+    },
+    "card_23": {
+      "title": "Re di Coppe",
+      "description": "Il Re di Coppe è una persona creativa e guidata dalle emozioni. È un individuo forte che comprende l'importanza dei sentimenti. L'intuizione lo aiuta a navigare nella vita; quando il destino sorride, la compassione guida le sue azioni, mentre in momenti difficili sarebbe imprudente fidarsi di lui."
+    },
+    "card_24": {
+      "title": "Re di Denari",
+      "description": "Il Re di Denari è imponente. Rappresenta l'imprenditorialità, il pragmatismo e anche l'attaccamento. Ci si può aspettare da lui freddezza o un'eccessiva attenzione alle cose materiali; è probabile che il suo arrivo rivoluzioni il tuo mondo prima o poi."
+    },
+    "card_25": {
+      "title": "Re di Bastoni",
+      "description": "Il Re di Bastoni è il maestro della pianificazione e delle idee non convenzionali. È un individuo capace di riunire le persone e irradiare ispirazione a coloro che considera amici. Tuttavia, i suoi nemici scopriranno presto che è una forza della natura impulsiva e devastante, capace di infrangere giuramenti e superare ogni limite per raggiungere i suoi obiettivi."
+    },
+    "card_26": {
+      "title": "Re di Spade",
+      "description": "Per il Re di Spade contano soprattutto la logica e la convinzione. Egli rappresenta una persona dotata di una bussola morale precisa, conosciuta per la sua gentilezza. Tuttavia, gli avversari devono stare attenti – il Re di Spade è un nemico spietato che non si fermerà finché non verrai punito e lasciato a marcire, come preda dei cani del destino."
+    }
+  }
+}

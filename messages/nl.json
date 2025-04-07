@@ -1,0 +1,115 @@
+{
+  "main_text": {
+    "title": "Cyberpunk Tarot",
+    "subtitle": "Geïnspireerd door het spel Cyberpunk 2077 van CD Projekt Red. Alle afbeeldingen en auteursrechten behoren toe aan CD Projekt. Dit is een fanproject.",
+    "about_01": "Website gemaakt door ",
+    "about_02": ", klik op mijn naam om mij te steunen, meer over mij te weten te komen of mijn andere projecten te ontdekken.",
+    "cta_button": "Klik hier om je verleden, heden en toekomst te ontdekken"
+  },
+  "cards": {
+    "card_1": {
+      "title": "De Nar",
+      "description": "De Nar is iedereen – inclusief jou en mij. Elke stap die hij zet op zijn reis voelt als het betreden van een dappere nieuwe wereld. Uiteindelijk zal de reis hem veranderen. Maar zoals de kaart aangeeft, is hij een betrouwbare jongeman wiens onvermoeibare hoop hem naar zijn doel leidt."
+    },
+    "card_2": {
+      "title": "De Magiër",
+      "description": "De Magiër is de kaart van zelfvertrouwen en het aanpassen aan situaties via intellect en pure wilskracht. Hij is een sluwe strateeg die altijd nog één laatste truc achter de hand heeft en, ondanks alles, erin slaagt om boven water te blijven en de controle over zijn eigen lot te behouden."
+    },
+    "card_3": {
+      "title": "De Hogepriesteres",
+      "description": "De Hogepriesteres is een kaart van mysterie. Ze toont hoe al onze geheimen aan een fragiel draadje hangen en de strijd tussen gezond verstand en intuïtie. Ze symboliseert het koude, kalme water en de raadsels die in de diepten ervan verborgen liggen."
+    },
+    "card_4": {
+      "title": "De Keizerin",
+      "description": "De Keizerin is de kaart van vrouwelijkheid en moederschap. Zij is autoritair, weet wat ze wil en straalt verfijning en sensualiteit uit. Ze symboliseert creativiteit en groei, en leert ons onze onbewuste impulsen niet te negeren, maar op onze intuïtie te vertrouwen."
+    },
+    "card_5": {
+      "title": "De Keizer",
+      "description": "De Keizer vertegenwoordigt patriarchale controle en is tevreden met de autoriteit en macht die hij bezit om de toekomst vorm te geven. Hij stelt de regels op en handhaaft deze voor het algemeen belang. Maar prestige kent ook zijn donkere kanten – de Keizer is dominant en meedogenloos en zal over een berg lichamen klimmen om zijn doel te bereiken."
+    },
+    "card_6": {
+      "title": "De Hiërofant",
+      "description": "De Hiërofant symboliseert respect voor traditie. Hij vertegenwoordigt degene die de gevestigde orde probeert te behouden, ook al is zijn eigen karakter daarmee gevormd. Hij stelt zijn vertrouwen in instituties – want de alternatieve weg is puur chaos. Alleen door op de orde te vertrouwen, kan hij kracht putten."
+    },
+    "card_7": {
+      "title": "De Geliefden",
+      "description": "De Geliefden zijn de kaart van dichotomieën. Ze wijzen op de tegenstrijdigheden die in ieder van ons botsen en op de uitdaging om een evenwicht te vinden tussen uitersten. Ze zijn ook de kaart van dilemma’s, zoals de Nar die op een kruispunt staat en geen keuze kan maken."
+    },
+    "card_8": {
+      "title": "De Zegewagen",
+      "description": "De Zegewagen raast altijd vooruit, ook al wordt hij door zijn paarden in tegengestelde richtingen getrokken. De ruiter die hem bestuurt, temt constant de lichte en donkere kanten van de ziel met behulp van de Rede. In de Zegewagen rijden betekent het ervaren van hoogte- en dieptepunten."
+    },
+    "card_9": {
+      "title": "De Kracht",
+      "description": "De Kracht is de kaart van veerkracht. Ze staat voor vastberadenheid, moed en innerlijke strijd. Men moet toewijding hebben om obstakels te overwinnen en zijn doel te bereiken. De Kracht gaat over zowel fysieke bekwaamheid als spirituele sterkte – de energie die ontketend moet worden om het onmogelijke te realiseren."
+    },
+    "card_10": {
+      "title": "De Kluizenaar",
+      "description": "De Kluizenaar is een kaart van zelfopgelegde afzondering. Hij vertegenwoordigt een ontsnapping aan de drukte van de stad, een afwending van constante vernieuwing ten gunste van oude tradities. Voor de Kluizenaar is eenzaamheid de weg naar het verhevene – een pad dat niet met grote stappen, maar met kleine, geconcentreerde stappen wordt bewandeld."
+    },
+    "card_11": {
+      "title": "Het Rad van Fortuin",
+      "description": "Het Rad van Fortuin betekent dat verandering op komst is. Iemands lot kan zowel in het voordeel als in het nadeel keren, maar het belooft ook nieuwe mogelijkheden. Het Rad herinnert ons eraan dat niemand voor altijd aan de top blijft en dat niet elke situatie hopeloos is."
+    },
+    "card_12": {
+      "title": "De Gerechtigheid",
+      "description": "De Gerechtigheid is de kaart van conflictoplossing. Ze verkondigt de noodzaak van orde, het doorzien van leugens en bedrog, en een terugkeer naar de natuurlijke staat der dingen. De Gerechtigheid impliceert een rechtvaardig oordeel, maar ook een eerlijk proces."
+    },
+    "card_13": {
+      "title": "De Gehangene",
+      "description": "De Gehangene is de kaart van opoffering. Hij geeft aan dat er een prijs betaald moet worden om verlichting te bereiken. Zijn opoffering opent de weg naar wedergeboorte in een nieuw leven, hoewel dit pad bezaaid is met pijn die in de tijd lijkt te bevriezen en uiteindelijk in de dood eindigt."
+    },
+    "card_14": {
+      "title": "De Dood",
+      "description": "De Dood is de kaart van het worden. Zij geeft een naderende en moeilijke overgang aan – het einde van een levensfase en het begin van een andere. Onvermijdelijk gaat er iets verloren tijdens de transformatie, maar er zal iets nieuws opstaan om zijn plaats in te nemen."
+    },
+    "card_15": {
+      "title": "De Matigheid",
+      "description": "De Matigheid is de kaart van balans. Ze kan zelfbeheersing symboliseren of de geleidelijke verschuiving naar een rijpere staat van evenwicht. Ze wordt geassocieerd met het vermogen om jezelf te beheersen en met de wens om innerlijke rust te bereiken."
+    },
+    "card_16": {
+      "title": "De Duivel",
+      "description": "De Duivel staat voor verslaving, verlangen en passie. Hij brengt roem en fortuin, maar tegen de prijs dat men zichzelf verliest in een wereld van materiële afleidingen. De Duivel lokt argeloze zielen in vallen, maar geeft hen altijd een keuze. Je kunt je geluk beproeven en zijn aanbod accepteren, maar je moet altijd weten wanneer je moet stoppen."
+    },
+    "card_17": {
+      "title": "De Toren",
+      "description": "De Toren is een voorteken van radicale verandering, chaos en vernietiging. De bliksem die de Toren treft, symboliseert de terugkeer naar de oude orde die onder de puinhopen begraven ligt, en de opkomst van een nieuwe orde. Het is een symbool van tragedie, apocalyps en zelfvernietiging."
+    },
+    "card_18": {
+      "title": "De Ster",
+      "description": "De Ster is de kaart van hoop. In de donkerste nachten is er een licht dat de weg naar huis verlicht. De Ster staat voor inspiratie, motivatie en geeft ons de kracht om verder te gaan."
+    },
+    "card_19": {
+      "title": "De Maan",
+      "description": "De Maan herinnert ons eraan dat de werkelijkheid niet altijd is wat ze op het eerste gezicht lijkt. In een wereld vol schijn en illusies is de beste weg vaak die welke door je eigen intuïtie wordt gewezen. De Maan is ook de kaart van dromen, verlangens en, uiteraard, slaap – het nachtelijk ritueel van de Dood."
+    },
+    "card_20": {
+      "title": "De Zon",
+      "description": "De Zon symboliseert succes. Het is de kaart van vrijheid, vernieuwing en een stralende toekomst die voor ons ligt. De Zon vertegenwoordigt ook de waarheid, want haar licht zal altijd de sluier van schaduw wegtrekken die de geheimen van de wereld verbergt, en staat voor grootsheid en pracht."
+    },
+    "card_21": {
+      "title": "Het Oordeel",
+      "description": "Het Oordeel is de kaart van vernieuwing. De engel die in de bazuin blaast, kondigt de opstanding en bevrijding aan. Deze kaart voorspelt een belangrijke verandering die zal leiden tot genezing of vervulling en is ook een symbool van eigenwaarde."
+    },
+    "card_22": {
+      "title": "De Wereld",
+      "description": "De Wereld ligt aan het einde van de lange, kronkelende reis van de Nar. Wijzer en vermoeider door de wereld dan hij begon, staat de Nar voor een moment van afrekening. Sommigen accepteren de weg die hun leven heeft genomen, terwijl anderen nieuwe uitdagingen aangaan. Eén ding is zeker in deze Wereld: je kunt niet alles hebben."
+    },
+    "card_23": {
+      "title": "De Koning van Bekers",
+      "description": "De Koning van Bekers is een creatieve en emotioneel gedreven persoon. Hij is een sterk individu dat het belang van gevoelens inziet. Zijn intuïtie helpt hem om door het leven te navigeren. Wanneer het lot in zijn voordeel werkt, leidt mededogen zijn daden, maar als het lot tegenzit, is het onverstandig op hem te vertrouwen."
+    },
+    "card_24": {
+      "title": "De Koning van Pentakels",
+      "description": "De Koning van Pentakels is imposant. Hij vertegenwoordigt ondernemerschap, pragmatisme en ook gehechtheid. Van zo iemand kun je kilheid of een overmatige fixatie op materiële bezittingen verwachten; hij zal je wereld eerder of later op zijn kop zetten."
+    },
+    "card_25": {
+      "title": "De Koning van Staven",
+      "description": "De Koning van Staven is de meester van planning en onconventionele ideeën. Hij brengt mensen samen en straalt inspiratie uit naar degenen die hij als vrienden beschouwt. Zijn vijanden zullen al snel ontdekken dat hij een impulsieve, verwoestende kracht is, in staat om eden te breken en elke grens te overschrijden om zijn doelen te bereiken."
+    },
+    "card_26": {
+      "title": "De Koning van Zwaarden",
+      "description": "Voor de Koning van Zwaarden tellen bovenal twee dingen: logica en overtuiging. Hij vertegenwoordigt een persoon met een nauwkeurig moreel kompas, bekend om zijn zorgzame aard. Maar vijanden, wees op uw hoede – de Koning van Zwaarden is een meedogenloze tegenstander die niet zal rusten totdat je gestraft bent en in stukken gerukt wordt."
+    }
+  }
+}

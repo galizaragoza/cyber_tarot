@@ -1,0 +1,115 @@
+{
+  "main_text": {
+    "title": "Tarot Cyberpunk",
+    "subtitle": "Inspiré par le jeu Cyberpunk 2077 de CD Projekt Red, toutes les images et droits d’auteur appartiennent à CD Projekt et ceci est un projet réalisé par un fan.",
+    "about_01": "Site réalisé par ",
+    "about_02": ", cliquez sur mon nom pour me soutenir, en savoir plus sur moi ou découvrir mes autres projets.",
+    "cta_button": "Cliquez ici pour que je révèle votre passé, présent et futur"
+  },
+  "cards": {
+    "card_1": {
+      "title": "Le Fou",
+      "description": "Le Fou représente tout le monde – vous et moi inclus. Chaque pas qu’il fait dans son voyage ressemble à une entrée dans un monde nouveau et audacieux. Finalement, ce voyage le transformera. Mais comme le montre la carte, c’est un jeune homme digne de confiance dont l’espoir infatigable le pousse vers son objectif."
+    },
+    "card_2": {
+      "title": "Le Magicien",
+      "description": "Le Magicien est la carte de la confiance en soi et de l’adaptation aux situations par l’intellect et la volonté pure. Le Magicien est un stratège qui a toujours un dernier tour dans son sac, qui, malgré tout, parvient à rester à flot et à garder le contrôle de son propre destin."
+    },
+    "card_3": {
+      "title": "La Grande Prêtresse",
+      "description": "La Grande Prêtresse est une carte de mystère. Elle montre comment tous nos secrets reposent sur un fil délicat et la lutte entre le bon sens et l’intuition. Elle symbolise les eaux froides et calmes ainsi que les mystères cachés dans leurs profondeurs."
+    },
+    "card_4": {
+      "title": "L’Impératrice",
+      "description": "L’Impératrice est une carte de féminité et de maternité. Elle est autoritaire, sait ce qu’elle veut et manifeste raffinement et sensualité. Elle symbolise la créativité et la croissance, et nous incite à ne pas ignorer nos impulsions inconscientes, mais à faire confiance à notre intuition."
+    },
+    "card_5": {
+      "title": "L’Empereur",
+      "description": "L’Empereur représente le contrôle patriarcal et se montre satisfait de l’autorité et du pouvoir qu’il détient pour façonner l’avenir. Il établit les règles et les impose pour le bien commun. Mais le prestige a ses côtés obscurs – il est dominateur et impitoyable, prêt à escalader une montagne de corps pour atteindre son but."
+    },
+    "card_6": {
+      "title": "Le Hiérophante",
+      "description": "Le Hiérophante symbolise le respect de la tradition. Il représente celui qui essaie de maintenir l’ordre établi, même si son caractère en est façonné. Il place sa foi dans les institutions – car l’alternative est le chaos pur. Ce n’est qu’en plaçant sa foi dans l’ordre qu’il peut puiser sa force."
+    },
+    "card_7": {
+      "title": "Les Amoureux",
+      "description": "Les Amoureux sont la carte des dichotomies. Ils mettent en lumière les contradictions qui s’entrechoquent en chacun de nous et le défi de trouver un équilibre entre les extrêmes. Ils représentent également les dilemmes, à l’image du Fou qui se tient à la croisée des chemins, incapable de faire son choix."
+    },
+    "card_8": {
+      "title": "Le Chariot",
+      "description": "Le Chariot fonce toujours de l’avant malgré le fait d’être tiré par ses chevaux dans des directions opposées. Le cavalier qui le dirige parvient constamment à maîtriser les côtés lumineux et sombres de l’âme grâce à la Raison. Voyager dans le Chariot, c’est vivre des hauts et des bas – des ascensions et des descentes."
+    },
+    "card_9": {
+      "title": "La Force",
+      "description": "La Force est la carte de la résilience. Elle est associée à la détermination, au courage et à la lutte intérieure. Il faut de la persévérance pour surmonter les obstacles et atteindre son but. Elle concerne la puissance physique et la force spirituelle – le pouvoir qui doit être libéré pour accomplir l’impossible."
+    },
+    "card_10": {
+      "title": "L’Hermite",
+      "description": "L’Hermite est une carte d’isolement volontaire. Elle représente une échappée du tumulte de la ville, un détour par rapport à la nouveauté constante vers des méthodes ancestrales. Pour l’ermite, la solitude est la voie vers le sublime – une voie empruntée non par de grands pas, mais par de petits pas concentrés."
+    },
+    "card_11": {
+      "title": "La Roue de Fortune",
+      "description": "La Roue de Fortune signifie que le changement arrive. Le destin de chacun peut tourner en bien ou en mal, tout en portant la promesse de nouvelles possibilités. Elle nous rappelle que personne ne reste toujours au sommet et qu’aucune situation n’est totalement désespérée."
+    },
+    "card_12": {
+      "title": "La Justice",
+      "description": "La Justice est la carte de la résolution des conflits. Elle proclame la nécessité de l’ordre, de percer les mensonges et les tromperies, et d’un retour à l’état naturel des choses. Elle implique une sentence équitable ainsi qu’une procédure régulière."
+    },
+    "card_13": {
+      "title": "Le Pendu",
+      "description": "Le Pendu est la carte du sacrifice. Il indique qu’un prix doit être payé pour atteindre l’illumination. Son abandon ouvre la voie à une renaissance dans une nouvelle vie, bien que cette voie soit jalonnée de douleurs suspendues dans le temps et aboutisse finalement à la mort."
+    },
+    "card_14": {
+      "title": "La Mort",
+      "description": "La Mort est la carte de la transformation. Elle signifie une transition imminente et difficile – la fin d’une phase de la vie et le début d’une autre. Inévitablement, quelque chose se perd lors de la transformation, mais quelque chose d’autre se lèvera pour prendre sa place."
+    },
+    "card_15": {
+      "title": "La Tempérance",
+      "description": "La Tempérance est la carte de l’équilibre. Elle peut symboliser la maîtrise de soi ou le passage progressif vers un état d’équilibre plus mûr. Elle est associée à la capacité de se contrôler ainsi qu’au désir d’atteindre la paix intérieure."
+    },
+    "card_16": {
+      "title": "Le Diable",
+      "description": "Le Diable représente l’addiction, le désir et la passion. Il apporte la gloire et la fortune, mais au prix de se perdre dans un monde de distractions matérielles. Il attire les âmes naïves dans des pièges, tout en leur offrant un choix. On peut tenter sa chance et accepter son offre, mais il faut toujours savoir quand s’arrêter."
+    },
+    "card_17": {
+      "title": "La Tour",
+      "description": "La Tour est un présage de changement radical, de chaos et de destruction. La foudre qui frappe La Tour signifie un retour à l’ancien ordre enfoui sous les ruines, et l’émergence d’un nouvel ordre. C’est un symbole de tragédie, d’apocalypse et d’autodestruction."
+    },
+    "card_18": {
+      "title": "L’Étoile",
+      "description": "L’Étoile est la carte de l’espoir. Dans la nuit la plus sombre, une lumière illumine le chemin du retour. Elle incarne l’inspiration, la motivation et nous donne la force d’avancer."
+    },
+    "card_19": {
+      "title": "La Lune",
+      "description": "La Lune nous rappelle que la réalité n’est pas toujours ce qu’elle semble être au premier abord. Dans un monde d’apparences et d’illusions, le meilleur chemin est souvent tracé par notre propre intuition. Elle est également la carte des rêves, des désirs et, bien sûr, du sommeil – le rituel nocturne de la Mort."
+    },
+    "card_20": {
+      "title": "Le Soleil",
+      "description": "Le Soleil symbolise le succès. C’est une carte de liberté, de renouveau et d’un avenir radieux. Il représente également la vérité, car sa lumière soulève toujours le voile d’ombre qui cache les secrets du monde. Il incarne aussi la grandeur et la splendeur."
+    },
+    "card_21": {
+      "title": "Le Jugement",
+      "description": "Le Jugement est la carte du renouveau. L’ange soufflant dans la trompette annonce la résurrection et la libération. Cette carte prédit un changement important qui aboutira à la guérison ou à l’épanouissement. C’est aussi un symbole de la valeur personnelle."
+    },
+    "card_22": {
+      "title": "Le Monde",
+      "description": "Le Monde se situe à la fin du long et sinueux voyage du Fou. Plus sage et fatigué du monde qu’il ne l’était au départ, le Fou fait face à un moment de vérité. Certains acceptent le chemin parcouru, tandis que d’autres se lancent dans un nouveau défi. Une chose est certaine dans ce Monde : on ne peut pas tout avoir."
+    },
+    "card_23": {
+      "title": "Roi de Coupes",
+      "description": "Le Roi de Coupes est une personne créative et guidée par ses émotions. C’est un individu fort qui comprend l’importance des sentiments. L’intuition l’aide à naviguer dans la vie. Lorsque le destin lui sourit, la compassion guide ses actions. Lorsqu’il est en désaccord avec le destin, il serait imprudent de lui faire confiance."
+    },
+    "card_24": {
+      "title": "Roi de Pentacles",
+      "description": "Le Roi de Pentacles est impérieux. Il représente l’entreprise, le pragmatisme, mais aussi l’attachement. On peut s’attendre de sa part à de la froideur ou à une fixation sur les possessions matérielles ; il est susceptible de bouleverser votre monde plus tôt ou plus tard."
+    },
+    "card_25": {
+      "title": "Roi de Bâtons",
+      "description": "Le Roi de Bâtons est le maître de la planification et des idées non orthodoxes. C’est un individu qui rassemble les gens et rayonne d’inspiration auprès de ceux qu’il considère comme amis. Cependant, ses ennemis découvriront vite qu’il est une force de la nature impulsive et dévastatrice, capable de rompre les serments et de franchir toutes les limites pour atteindre ses objectifs."
+    },
+    "card_26": {
+      "title": "Roi d’Épées",
+      "description": "Deux choses importent avant tout pour un Roi d’Épées : la logique et la conviction. Il représente une personne dotée d’une boussole morale précise, connue pour sa bienveillance. Cependant, que les ennemis se méfient – il est un adversaire impitoyable qui ne se reposera pas tant que vous ne serez pas puni et déchiré par les chiens du destin."
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "main_text": {
+    "title": "Cyberpunk Tarot",
+    "subtitle": "Inspirado en el juego de CD Projekt Red Cyberpunk 2077, todas las imágenes y sus derechos de autor pertenecen a CD Projekt y esto es un proyecto elaborado por un fan.",
+    "about_01": "Web hecha por ",
+    "about_02": ", puedes clicar en mi nombre para apoyarme, saber más sobre mí o conocer mis otros proyectos.",
+    "cta_button": "Clica aquí para que adivine tu pasado, presente y futuro"
+  },
+  "cards": {
+    "card_1": {
+      "title": "El Necio",
+      "description": "El Necio es todo el mundo - incluyéndote a ti y a mí. Cada paso que da en su viaje se siente como adentrarse en un mundo nuevo y audaz. En última instancia, el viaje lo transformará. Pero, como muestra la carta, es un joven digno de confianza cuya incansable esperanza lo impulsa hacia su meta."
+    },
+    "card_2": {
+      "title": "El Mago",
+      "description": "El Mago es la carta de la autoconfianza y de adaptarse a las situaciones mediante el intelecto y la pura voluntad. Es un estratega que siempre tiene un último truco bajo la manga, y, a pesar de todo, logra mantenerse a flote y controlar su propio destino."
+    },
+    "card_3": {
+      "title": "La Sacerdotisa",
+      "description": "La Sacerdotisa es una carta de misterio. Muestra cómo todos nuestros secretos cuelgan de un hilo delicado y la lucha entre el sentido común y la intuición. Simboliza las aguas frías y calmadas, así como los misterios ocultos en sus profundidades."
+    },
+    "card_4": {
+      "title": "La Emperatriz",
+      "description": "La Emperatriz es una carta de feminidad y maternidad. Es autoritaria, sabe lo que quiere y manifiesta refinamiento y sensualidad. Simboliza la creatividad y el crecimiento, e invita a no descartar nuestros impulsos inconscientes, sino a confiar en nuestra intuición."
+    },
+    "card_5": {
+      "title": "El Emperador",
+      "description": "El Emperador representa el control patriarcal y se muestra complacido con la autoridad y el poder que posee para moldear el futuro. Establece las reglas y las hace cumplir por el bien común. Sin embargo, el prestigio tiene su lado oscuro: es dominante y despiadado, y se subirá sobre una montaña de cuerpos para alcanzar su objetivo."
+    },
+    "card_6": {
+      "title": "El Hierofante",
+      "description": "El Hierofante simboliza el respeto por la tradición. Representa a quien intenta mantener el orden establecido, a pesar de que su propio carácter se ve moldeado por él. Deposita su fe en las instituciones, ya que la alternativa es el caos puro. Solo depositando su fe en el orden puede extraer su fuerza."
+    },
+    "card_7": {
+      "title": "Los Enamorados",
+      "description": "Los Enamorados son la carta de las dicotomías. Señalan las contradicciones que se enfrentan en nuestro interior y el desafío de hallar un equilibrio entre los extremos. También representan dilemas, como el del Loco que se encuentra en la encrucijada, incapaz de tomar una decisión."
+    },
+    "card_8": {
+      "title": "El Carro",
+      "description": "El Carro avanza siempre a pesar de ser tirado por sus corceles en direcciones opuestas. El conductor que lo dirige domina constantemente los lados luminosos y oscuros del alma con la ayuda de la Razón. Viajar en El Carro es experimentar altibajos, subidas y bajadas."
+    },
+    "card_9": {
+      "title": "La Fuerza",
+      "description": "La Fuerza es la carta de la resiliencia. Se asocia con la determinación, el coraje y la lucha interna. Es necesaria la dedicación para superar obstáculos y alcanzar la meta. Se refiere tanto a la destreza física como a la fortaleza espiritual, el poder que debe liberarse para lograr lo imposible."
+    },
+    "card_10": {
+      "title": "El Ermitaño",
+      "description": "El Ermitaño es una carta de aislamiento autoimpuesto. Representa una escapatoria del bullicio de la ciudad, un alejamiento de la novedad constante hacia los antiguos caminos. Para el ermitaño, la soledad es la vía hacia lo sublime, transitada no con grandes pasos, sino con pequeños y concentrados."
+    },
+    "card_11": {
+      "title": "La Rueda de la Fortuna",
+      "description": "La Rueda de la Fortuna significa que se avecina un cambio. El destino de uno puede volverse mejor o peor, llevando consigo la promesa de nuevas posibilidades. Nos recuerda que nadie permanece en la cima para siempre y que no toda situación es desesperada."
+    },
+    "card_12": {
+      "title": "La Justicia",
+      "description": "La Justicia es la carta de la resolución de conflictos. Proclama la necesidad de orden, de ver a través de las mentiras y el engaño, y de retornar al estado natural de las cosas. Implica una sentencia justa, pero también el debido proceso."
+    },
+    "card_13": {
+      "title": "El Colgado",
+      "description": "El Colgado es la carta del sacrificio. Indica que se debe pagar un precio para alcanzar la iluminación. Su abandono abre el camino hacia un renacimiento en una nueva vida, aunque esa senda esté marcada por un dolor suspendido en el tiempo que finalmente culmina en la muerte."
+    },
+    "card_14": {
+      "title": "La Muerte",
+      "description": "La Muerte es la carta de la transformación. Significa una transición inminente y difícil: el final de una etapa de la vida y el comienzo de otra. Inevitablemente, algo se pierde durante la transformación, pero algo nuevo surgirá para ocupar su lugar."
+    },
+    "card_15": {
+      "title": "La Templanza",
+      "description": "La Templanza es la carta del equilibrio. Puede simbolizar el autocontrol o el paso gradual hacia un estado de equilibrio más maduro. Se asocia tanto con la capacidad de controlarse a sí mismo como con el deseo de alcanzar la paz interior."
+    },
+    "card_16": {
+      "title": "El Diablo",
+      "description": "El Diablo representa la adicción, el deseo y la pasión. Aporta fama y fortuna, pero a costa de perderse en un mundo de distracciones materiales. Atrae a las almas incautas hacia trampas, aunque siempre ofrece una elección. Se puede arriesgar y aceptar su oferta, pero siempre es fundamental saber cuándo detenerse."
+    },
+    "card_17": {
+      "title": "La Torre",
+      "description": "La Torre es un presagio de cambio radical, caos y destrucción. El rayo que impacta La Torre señala un retorno al antiguo orden enterrado bajo las ruinas y el surgimiento de uno nuevo. Es un símbolo de tragedia, apocalipsis y autodestrucción."
+    },
+    "card_18": {
+      "title": "La Estrella",
+      "description": "La Estrella es la carta de la esperanza. En la noche más oscura, una luz ilumina el camino de regreso a casa. Representa la inspiración, la motivación y nos brinda la fuerza para seguir adelante."
+    },
+    "card_19": {
+      "title": "La Luna",
+      "description": "La Luna nos recuerda que la realidad no siempre es lo que parece a primera vista. En un mundo de apariencias e ilusiones, lo mejor es dejarse guiar por la propia intuición. Además, es la carta de los sueños, los deseos y, por supuesto, del sueño – el ritual nocturno de la Muerte."
+    },
+    "card_20": {
+      "title": "El Sol",
+      "description": "El Sol simboliza el éxito. Es la carta de la libertad, el renacimiento y de un futuro brillante. También representa la verdad, ya que su luz siempre descorrerá el velo de sombras que oculta los secretos del mundo. Asimismo, encarna la grandeza y el esplendor."
+    },
+    "card_21": {
+      "title": "El Juicio",
+      "description": "El Juicio es la carta del renacimiento. El ángel que sopla en la trompeta anuncia la resurrección y la liberación. Esta carta predice un cambio importante que resultará en sanación o realización, y también es un símbolo del valor personal."
+    },
+    "card_22": {
+      "title": "El Mundo",
+      "description": "El Mundo se sitúa al final del largo y sinuoso viaje del Loco. Más sabio y cansado que al inicio, el Loco se enfrenta a un momento de rendición de cuentas. Algunos aceptan el camino recorrido, mientras que otros se embarcan en un nuevo desafío. En este Mundo, una cosa es segura: no se puede tener todo."
+    },
+    "card_23": {
+      "title": "Rey de Copas",
+      "description": "El Rey de Copas es una persona creativa y emocionalmente sensible. Es un individuo fuerte que comprende la importancia de los sentimientos. La intuición lo guía en la vida. Cuando el destino le sonríe, la compasión dirige sus acciones; cuando está en desacuerdo con el destino, sería imprudente confiar en él."
+    },
+    "card_24": {
+      "title": "Rey de Pentáculos",
+      "description": "El Rey de Pentáculos es imperioso. Representa la empresa, el pragmatismo y también el apego. Se puede esperar de él frialdad o una fijación en las posesiones materiales; es probable que, tarde o temprano, ponga tu mundo patas arriba."
+    },
+    "card_25": {
+      "title": "Rey de Bastos",
+      "description": "El Rey de Bastos es el maestro de la planificación y de las ideas poco convencionales. Es una persona que une a la gente y irradia inspiración hacia aquellos que considera amigos. Sin embargo, sus enemigos descubrirán pronto que es una fuerza de la naturaleza impulsiva y devastadora, capaz de romper juramentos y cruzar cualquier límite para lograr sus objetivos."
+    },
+    "card_26": {
+      "title": "Rey de Espadas",
+      "description": "Dos cosas importan sobre todo para un Rey de Espadas: la lógica y la convicción. Representa a una persona con una brújula moral precisa, conocida por su actitud compasiva. Sin embargo, que se preparen los enemigos: es un adversario despiadado que no descansará hasta que seas castigado y dejado a merced de los perros del destino."
+    }
+  }
+}
