@@ -22,7 +22,7 @@ export default function LanguageSwitcher() {
     const locale = useLocale();
     const pathname = usePathname();
     const router = useRouter();
-    const [isPending, startTransition] = useTransition();
+    const [, startTransition] = useTransition();
 
     const handleSelect = (newLocale: string) => {
         const segments = pathname.split('/');
