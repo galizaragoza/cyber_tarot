@@ -14,13 +14,11 @@ const geistSans = Geist({
   subsets: ["latin"],
   display: "swap",
 });
-
 const geistMono = Geist_Mono({
   variable: "--font-geist-mono",
   subsets: ["latin"],
   display: "swap",
 });
-
 const orbitron = Orbitron({ subsets: ["latin"] });
 const roboto = Roboto({ subsets: ["latin"] });
 
@@ -32,13 +30,18 @@ export const metadata: Metadata = {
 
 interface LocaleLayoutProps {
   children: React.ReactNode;
-  params: { locale: string };
+  // En Next.js 15, params llega como Promise
+  params: Promise<{ locale: string }>;
 }
 
-export default async function LocaleLayout({ children, params }: LocaleLayoutProps) {
-  const { locale } = params;
+export default async function LocaleLayout({
+  children,
+  params,
+}: LocaleLayoutProps) {
+  // 1) Desenpaquetamos locale de la promesa
+  const { locale } = await params;
+  // 2) Cargamos los mensajes
   const messages = await getMessages({ locale });
-
   if (!messages) notFound();
 
   return (
