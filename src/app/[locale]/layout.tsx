@@ -6,7 +6,7 @@ import { getMessages } from "next-intl/server";
 import { notFound } from "next/navigation";
 import "../globals.css";
 import LanguageSwitcher from "@/components/lang-switcher";
-import { Analytics } from "@vercel/analytics/react"
+import { Analytics } from "@vercel/analytics/react";
 
 // Fuentes de Google
 const geistSans = Geist({
@@ -46,10 +46,12 @@ export default async function LocaleLayout({ children, params }: LocaleLayoutPro
       <body
         className={`${geistSans.variable} ${geistMono.variable} ${orbitron.className} ${roboto.className} font-sans antialiased bg-white text-black`}
       >
-        
         <NextIntlClientProvider locale={locale} messages={messages}>
           <LanguageSwitcher />
-          <div className="min-h-screen flex flex-col"><Analytics />{children}</div>
+          <div className="min-h-screen flex flex-col">
+            {children}
+            <Analytics />
+          </div>
         </NextIntlClientProvider>
       </body>
     </html>
